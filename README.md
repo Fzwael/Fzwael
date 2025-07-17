@@ -39,7 +39,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fzwael&show_icons=true&theme=github_dark" alt="Fzwael's GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fzwael&theme=github-dark-blue" alt="Fzwael's GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
